@@ -1,0 +1,10 @@
+name: lfnw-inspec-exmaple
+title: InSpec examples for LinuxFest NW
+maintainer: Chris Foster
+copyright: Chris Foster
+copyright_email: none@fork4.com
+license: Apache-2.0
+summary: Demonstrate use of InSpec for container hardening
+version: 0.9.0
+supports:
+  - os-family: unix
